@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(183, 202, 183);
+}
+.welcome{
+    text-align: left;
+    text-rendering: auto;
+}
+.main{
+    width: 80vh;
+    height: 85vh;
+    background-color: rgb(147, 207, 112);
+    padding: 50px;
+    border: 5px solid rgb(38, 78, 5);
+    margin-top: 5px;
+}
+.method{
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.method label{
+    margin-bottom: 5px;
+    font-weight: bold;
+    display: block;
+}
+.method method method[type="text"],.method method method[type="text"]{
+    width: 100px;
+    padding: 50px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.btn button[type="submit"]{
+    background-color: rgb(48, 175, 158);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: medium;
+    display: inline;
+    margin: auto;
+}
+.btn button[type="submit"]:hover{
+    background-color: rgb(190, 102, 153);
+}

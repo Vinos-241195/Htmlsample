@@ -1,0 +1,49 @@
+.main{
+    width: 100vh;
+    height: 40vh;
+    background-color: rgb(211, 199, 93);
+    padding: 50px;
+    border: 5px solid rgb(38, 78, 5);
+    margin-top: 10px;
+    
+}
+
+.method{
+    padding: 5px;
+    text-align: left;
+    display:inline;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.hi{
+
+    padding: 5px;
+    display: inline;
+    text-align: left;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.h{
+    padding: 5px;
+    display: grid;
+    text-align: left;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.hello{
+    padding: 5px;
+    margin-bottom: 20px;
+    
+}
+.btn button[type="submit"]{
+    background-color: rgb(48, 175, 158);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: medium;
+    display:grid;
+    margin: auto;
+}
+.btn button[type="submit"]:hover{
+    background-color: rgb(190, 102, 153);
+}

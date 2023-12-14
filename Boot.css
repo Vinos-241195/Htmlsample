@@ -1,0 +1,29 @@
+.cl1{
+    background-color: rgb(139, 192, 53);
+    padding: 30px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.cl2{
+    background-color: rgb(139, 192, 53);
+    padding: 30px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.cl3{
+    background-color: rgb(206, 140, 167);
+    padding: 30px;
+    font-size:xx-large;
+    color: red;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.cl4{
+    background-color: rgb(120, 194, 169);
+    padding: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+}

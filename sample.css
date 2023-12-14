@@ -1,0 +1,42 @@
+.HELLOWORLD{
+    text-align:center;
+    background-color: rgb(191, 176, 216);
+    border:3px solid rgb(5, 63, 31);
+    margin:10px;
+    border-radius: 10px;
+}
+.HELLO{
+    text-align:center;
+    background-color: rgb(191, 176, 216);
+    border:3px solid rgb(136, 22, 9);
+    margin:10px;
+    border-radius: 10px;
+}
+.SAMPLE{
+    text-align:center;
+    background-color: rgb(191, 176, 216);
+    border:3px solid rgb(136, 22, 9);
+    margin:10px;
+    border-radius: 10px; 
+}
+.SIMPLE{
+    text-align:center;font-size: small;
+    background-color: rgb(191, 176, 216);
+    border-radius: 10px;
+    margin: 10px;
+    border:2px solid rgb(136, 22, 9);
+}
+.HI{
+    text-align:center;font-size: small;
+    background-color: rgb(191, 176, 216);
+    border-radius: 10px;
+    margin: 10px;
+    border:2px solid rgb(136, 22, 9);
+}
+.HOME{
+    text-align:center;font-size: small;
+    background-color: rgb(191, 176, 216);
+    border-radius: 10px;
+    margin: 10px;
+    border:2px solid rgb(136, 22, 9);
+}
